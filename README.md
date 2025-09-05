@@ -25,6 +25,4 @@ This project helps you manage your daily tasks with features like **Add, Edit, D
 ## 📸 Screenshot
 ![ToDo App Screenshot](./Screenshot.png)
 
-*(Replace `screenshot.png` with the actual file name of your screenshot in the repo)*
 
----
